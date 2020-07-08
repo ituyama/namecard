@@ -7,3 +7,15 @@
 .pd{
   margin:100px;
 }
+.mag{
+  padding:50px;
+}
+.pics{
+border-radius: 50px;
+}
+.backs{
+  border-radius: 56px;
+background: #c0c0c0;
+box-shadow: inset 17px 17px 63px #a1a1a1,
+            inset -17px -17px 63px #dfdfdf;
+}
