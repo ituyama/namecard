@@ -7,6 +7,9 @@
 .pd{
   margin:100px;
 }
+.ppd{
+  margin-top: 40px;
+}
 .mag{
   padding:50px;
 }
@@ -18,4 +21,25 @@ border-radius: 50px;
 background: #c0c0c0;
 box-shadow: inset 17px 17px 63px #a1a1a1,
             inset -17px -17px 63px #dfdfdf;
+}
+.bas{
+  border-radius: 60px;
+  background: #e2e2e2;
+  box-shadow: inset 36px 36px 35px #b9b9b9,
+              inset -36px -36px 35px #ffffff;
+}
+.fbs{
+  border-radius: 82px;
+  background: linear-gradient(145deg, #005fff, #0050e6);
+  box-shadow:  9px 9px 18px #004ad4,
+               -9px -9px 18px #0068ff;
+}
+.mag2{
+  padding:20px;
+}
+.twt{
+  border-radius: 66px;
+  background: linear-gradient(145deg, #e3e3e3, #bfbfbf);
+  box-shadow:  13px 13px 26px #868686,
+               -13px -13px 26px #ffffff;
 }
